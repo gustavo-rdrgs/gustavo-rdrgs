@@ -1,7 +1,9 @@
 ## <div align="center">Hello, I'm Gustavo Rodrigues!</div>
 
+
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/240b196c-edad-4069-9d65-65e55436ac66" width="200" />
+  <img src="https://github.com/user-attachments/assets/88ed768a-bad8-40a9-bd67-baf55e198661" width="100" />
 </div>
 
 ### <div align="center">I'm a student at the Federal University of Paraíba, Brazil.</div>
